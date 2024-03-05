@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wxrren/jest-testing-1.git#main"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wxrren/jest-testing-1/issues"
+  },
+  "homepage": "https://github.com/Wxrren/jest-testing-1/tree/main#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
