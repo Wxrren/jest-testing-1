@@ -26,4 +26,7 @@ describe("game object contains correct keys", () => {
     test("choices key exists", () => {
         expect("choices" in game).toBe(true);
     });
+    test("choices contain correct ids", () => {
+        expect(game.choices).toEqual(["Button1", "Button2", "Button3", "Button4"]);
+    }); 
 });
